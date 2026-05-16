@@ -1,4 +1,4 @@
-[200~# Shell Scripting Notes
+# Shell Scripting Notes
 
 This repository contains my Linux Shell Scripting learning notes, examples, and practice scripts.
 
