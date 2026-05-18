@@ -79,3 +79,35 @@ echo → Displays text output
 date → Shows the current system date and time
 
 whoami → Displays the currently logged-in user
+
+# Types of Shell
+
+| Shell | Description |
+| :--- | :--- |
+| **sh** | Bourne Shell |
+| **bash** | Bourne Again Shell |
+| **ksh** | Korn Shell |
+| **csh** | C Shell |
+| **zsh** | Z Shell |
+
+
+# How to Run a Shell Script?
+
+# 1. Create a Script File
+
+vim script.sh
+
+# 2. Add Commands and Save the File
+
+Example:
+
+#!/bin/bash
+
+echo "Hello World"
+# 3. Make the Script Executable
+Make the Script Executable
+chmod +x script.sh
+# 4. Run the Script
+./script.sh
+
+
