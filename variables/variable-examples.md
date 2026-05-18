@@ -8,3 +8,17 @@ Example:
 
 ```bash
 name="Ali"
+
+Define and Retrieve Variables
+
+Define a Variable
+
+```bash
+name="Ahmed"
+```
+
+Retrieve a Variable
+
+```bash
+echo $name
+```
